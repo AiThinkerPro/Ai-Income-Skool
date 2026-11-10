@@ -1,5 +1,6 @@
 # AI Income Skool: Master Plan
 
+> **Skool URL:** https://www.skool.com/ai-profit-maker-8460 (slug fixed for now; display name still to decide)
 > **Working name:** AI Income Skool. **Promise:** "Build your first $1,000/month with Claude in 90 days. Real projects, shown step by step, no hype."
 > This file is the source of truth. Every working session reads it first and updates **§9 Session Roadmap** when it finishes.
 

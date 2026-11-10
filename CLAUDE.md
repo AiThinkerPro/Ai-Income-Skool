@@ -1,5 +1,7 @@
 # AI Income Skool: context for Claude sessions
 
+Skool URL: https://www.skool.com/ai-profit-maker-8460 (display name may differ from slug).
+
 Paid Skool community teaching members how to make money online with Claude, through many mini courses.
 Each lesson ships as **text + video** (Remotion motion graphics, Google Flow b-roll, screen-recording demos).
 
