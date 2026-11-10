@@ -145,7 +145,7 @@ Throughput target: **1 mini course per week** after the launch set.
 
 ## 7. Community engine (retention > acquisition)
 
-- **Weekly rhythm:** Mon "Monday Money Move" challenge · Wed live Q&A / hot seat · Fri **Wins Wednesday→Friday** thread · monthly new course drop.
+- **Weekly rhythm:** Mon "Monday Money Move" challenge · Wed live Q&A / hot seat · Fri **Friday Wins** thread · monthly new course drop.
 - **Gamification:** Skool points → levels unlock vault content; monthly leaderboard prize (free month / 1:1 call).
 - **Proof-of-work posts:** every lesson ends with "post your result". That is the engine of social proof.
 - **30-day "First Dollar Challenge"** for new members onboarding. It drives early wins, which drive retention.
